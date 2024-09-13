@@ -1,7 +1,7 @@
 # Dell-Latitude-3410_Hackintosh
 OpenCore EFI for Dell Latitude 3410 with 10th generation Intel processor  
   
-**Resigned from last company & returned device, won't update this repository anymore**
+*****Tested on Ventura-Sonoma
 
 
 ## Hardware Info
